@@ -1,6 +1,6 @@
 {"Version": [
     {
-      "version": "2.2",
+      "version": "2.4",
       "error": "01",
       "initialise": "13",
 	  "releaseNotes": [
@@ -12,7 +12,7 @@
   ],
   "Controle": [
     {
-      "version": "2.0",
+      "version": "2.2",
       "error": "01"
 	}   
   ]
