@@ -1,0 +1,19 @@
+{"Version": [
+    {
+      "version": "3.6",
+      "error": "01",
+      "initialise": "13",
+	  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+	}   
+  ],
+  "Controle": [
+    {
+      "version": "3.4",
+      "error": "01"
+	}   
+  ]
+}
